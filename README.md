@@ -1,7 +1,5 @@
 # zoom macro alarm program
 
-* Author : Park YongJu
-
 ### Part 1. CRUD alarm
 
 ### Part 2. alarm
